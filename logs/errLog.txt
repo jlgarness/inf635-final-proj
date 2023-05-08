@@ -1,0 +1,10 @@
+20230506	22:37:19	8060c261-0302-4cbd-910f-c5c431664494	ReferenceError: allowedOrigins is not defined
+20230506	22:37:19	651068aa-5e6a-4794-90c6-3afb5195fe47	ReferenceError: allowedOrigins is not defined
+20230506	22:38:06	d8c5f090-b897-45ae-ac62-85e864ec7221	ReferenceError: allowedOrigins is not defined
+20230506	22:38:06	40c7596d-77dc-4d50-bef1-c5e76149600b	ReferenceError: allowedOrigins is not defined
+20230507	15:46:31	6376e001-6a10-43b6-8a8e-f46f9b7b3520	SyntaxError: Unexpected token } in JSON at position 20
+20230507	16:33:52	e5dd85f4-b88a-4569-88b7-826ea3a0a0f0	SyntaxError: Unexpected token } in JSON at position 11
+20230507	16:34:00	32cd6808-9381-44cc-9ca5-49fd06d5dca8	SyntaxError: Unexpected token " in JSON at position 0
+20230507	16:34:09	22b44a3b-71d8-4b71-bdf6-7a880a83b9a3	SyntaxError: Unexpected token " in JSON at position 0
+20230507	16:46:48	41d76ce5-d885-4ecc-917c-e88803e59f38	SyntaxError: Unexpected token [ in JSON at position 2
+20230507	17:18:23	1d8652c1-3eae-42bb-8fd5-c07389b9a61b	SyntaxError: Unexpected token [ in JSON at position 12
